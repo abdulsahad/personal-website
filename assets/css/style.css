@@ -9,6 +9,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.btn--download{
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+  width: 200px;
+  margin-top: 40px;
+   
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
